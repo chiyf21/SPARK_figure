@@ -1,0 +1,7 @@
+# Ignore large data folders
+wholistic_registration/
+data/
+
+# Ignore large image files
+*.tif
+*.tiff
