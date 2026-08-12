@@ -1,0 +1,3 @@
+[submodule "CoarseFlow"]
+	path = CoarseFlow
+	url = git@github.com:chiyf21/CoarseFlow.git
